@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "No Tab",
+  title: "notab.ai",
   description:
     "Use the internet without a browser. Let AI agents do the work for you.",
 };
